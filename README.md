@@ -1,4 +1,4 @@
-# Vulnerable-WordPress
+# Vulnerable WordPress
 In this repository, we collect vulnerable WordPress plugins monthly and provide them to researchers. The output is a vulnerable WordPress that is easily installed.
 Researchers can use this version for Nuclei template development, exploit development, practice, training, etc.
 
