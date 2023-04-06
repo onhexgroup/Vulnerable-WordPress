@@ -10,7 +10,10 @@ Researchers can use this version for Nuclei template development, exploit develo
 - This list only includes plugins that downloadable from WordPress.org.
 
 ## Install:
-- Download file > extract it > run installer.php
+- Download file and extract it
+- Create database and user databas
+- run installer.php
+
 - Video: How to install on wamp (windows) [Youtube]() | [Aparat]()
 - Vidde: How to install on kali (linux) [Youtube]() | [Aparat]()
 
