@@ -11,10 +11,10 @@ Researchers can use this version for Nuclei template development, exploit develo
 
 ## Install:
 - Download file and extract it
-- Create database and user databas
-- run installer.php
+- Create database and user database
+- run installer.php on browser
 
-- Video: How to install on wamp (windows) [Youtube]() | [Aparat]()
+- Video: How to install on wamp (windows) [Youtube](https://www.youtube.com/watch?v=Bee8LZGpFG8) | [Aparat](https://www.aparat.com/v/wXrPU)
 - Vidde: How to install on kali (linux) [Youtube]() | [Aparat]()
 
 ## Donate:
