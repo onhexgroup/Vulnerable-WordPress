@@ -1,6 +1,6 @@
 # Vulnerable WordPress
 In this repository, we collect vulnerable WordPress plugins monthly and provide them to researchers. The output is a vulnerable WordPress that is easily installed.
-Researchers can use this version for Nuclei template development, exploit development, practice, training, etc.
+Researchers can use this version for Nuclei template development, exploit development, practice, training, etc. [Description in Farsi language](https://onhexgroup.ir/tag/%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3-%d8%a2%d8%b3%db%8c%d8%a8-%d9%be%d8%b0%db%8c%d8%b1/)
 
 ## Hints:
 - This version contains vulnerabilities, so be careful when using it.
