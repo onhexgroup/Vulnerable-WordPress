@@ -15,7 +15,7 @@ Researchers can use this version for Nuclei template development, exploit develo
 - run installer.php on browser
 
 - Video: How to install on wamp (windows) [Youtube](https://www.youtube.com/watch?v=Bee8LZGpFG8) | [Aparat](https://www.aparat.com/v/wXrPU)
-- Vidde: How to install on kali (linux) [Youtube]() | [Aparat]()
+- Vidde: How to install on kali (linux) [Youtube](https://www.youtube.com/watch?v=49EghnqsWII) | [Aparat]()
 
 ## Donate:
 - Bitcoin : 1HPfpSES4kpuTgJDsbsxY3iMZWsxChcZm5
