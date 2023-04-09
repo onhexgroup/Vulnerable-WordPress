@@ -15,5 +15,5 @@ We have published this version under the name “Arg of Tabriz”. ([For more in
 - Hash vuln_wordpress_march2023_0bcc6e92ab790c593144_20230406095100_archive.zip : B21DFAEBE763A2C5A2BA542A5611B9AD22A0DEA90941D70D910AAE3C65197B22
 - Hash Vuln_plugins_march_2023.xlsx : 69AED3A51A3EF7EEB4B308584160D0308D26F47E6E76112AEFB37FA32CC7B8A4
 
-## Download link
+## Download link from google drive
 [Google drive](https://drive.google.com/file/d/1IC-hiO7OCoHC8dZJiYCFTsL1xQ1kEF_w/view?usp=share_link)
