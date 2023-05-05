@@ -16,4 +16,4 @@ We have published this version under the name "Rab'-e Rashidi". ([For more infor
 - Hash Vuln_plugins_april_2023.xlsx : 8DCC4313EAC7274BB738D81D44059F4B6B80B34015DBCD8A6442A5E9B915652A
 
 ## Download link from google drive
-[Google drive]()
+[Google drive](https://drive.google.com/drive/folders/1W1aEcYxtcdJGxq9A9dPPE5DtopydwKDO)
