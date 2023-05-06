@@ -1,6 +1,8 @@
 Hello and welcome to the second version of Vulnerable WordPress!
 This version includes the vulnerable plugins of April 2023.
-We have published this version under the name "Rab'-e Rashidi". ([For more information about this historical monument, you can see this post.](https://en.wikipedia.org/wiki/Rab%27-e_Rashidi))
+We have published this version under the name "Rab'-e Rashidi". ([For more information about this historical monument, you can see this post.](https://en.wikipedia.org/wiki/Rab%27-e_Rashidi)) 
+
+[Description in persian](https://onhexgroup.ir/%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3-%d8%a2%d8%b3%db%8c%d8%a8%d9%be%d8%b0%db%8c%d8%b1-%d8%a2%d9%88%d8%b1%db%8c%d9%84-2023/)
 
 ## Information about the installed version of WordPress:
 
