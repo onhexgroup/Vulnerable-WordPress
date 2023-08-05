@@ -1,0 +1,983 @@
+Complete and Update data : https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/static-html-output-plugin/freemius-sdk-259-reflected-cross-site-scripting-via-fs-request-get
+
+
+XT Points & Rewards for WooCommerce
+XT Quick View for WooCommerce
+XT Variation Swatches for WooCommerce
+Yasr – Yet Another Stars Rating
+Yatri Tools
+YouTube Easy Embed (Wall/Rail)
+YouTube Embed – YouTube Gallery, Vimeo Gallery – WordPress Plugin
+Yummy Recipes
+Zipcode Redirect
+Кнопка ЮMoney
+Chat Button by GetButton.io
+WP-Cron Status Checker
+WP-HR GDPR: GDPR Tools for Human Resources on WordPress
+WP-HR Manager: The Human Resources Plugin for WordPress
+WP2Static
+WPBricks – Library of Gutenberg Blocks & Templates
+WPCasa Mail Alert
+WPEForm Lite – Drag and Drop Live Form Builder for Contact, Payment & Quiz Forms
+WPEventPartners Demo Import
+WPFormify – Stripe Payments with Form and Checkout
+WPGutenBlog Demo Import
+WPHelpKit
+WPIDE – File Manager & Code Editor
+WPTools Masonry Gallery & Posts For Divi
+WPVisitorInfo – Show Visitor Information & Conditional Data Based On That Information
+WritersBlok AI Content Generator for WordPress
+WUPO Group Attributes for WooCommerce
+WZ Followed Posts – Display what visitors are reading
+XPlainer – WooCommerce Product FAQ [WooCommerce Accordion FAQ Plugin]
+XT Ajax Add To Cart for WooCommerce
+XT Floating Cart for WooCommerce
+WP Sales Pitch
+WP Scrive by Webbstart
+WP Search Filter
+WP Security Safe
+WP Signals
+WP Simple Maintenance & Under Construction Mode
+WP Smart Export (Free)
+WP SMS: WP SMS Notification for WordPress
+WP SPID Italia
+WP Store Locator – Extenders
+WP Table Builder – WordPress Table Plugin
+WP Table Pixie
+WP to Twitter
+WP Tools Divi Blog Carousel
+WP Tools Divi Product Carousel
+WP Tools Gravity Forms Divi Module
+WP Travel – Best Travel Booking WordPress Plugin, Tour Management Engine
+WP Travel Engine – Best Travel Booking WordPress Plugin
+WP TripAdvisor Review Slider
+WP VR – 360 Panorama and Virtual Tour Builder For WordPress
+WP Lead Stream
+WP Link Bio
+WP Logger
+WP Mail Log
+WP Media Category Management
+WP Mobile Menu – The Mobile-Friendly Responsive Menu
+WP Munich Blocks – Gutenberg Blocks for WordPress
+Wp My Admin Bar
+WP Native Articles – Facebook Instant Articles Plugin for WordPress
+WP News and Scrolling Widgets
+WP Page Templates
+WP Phone Message
+WP Photo Effects
+WP Private Media
+WP Radio – Worldwide Online Radio Stations Directory for WordPress
+WP Relevant Ads
+WP Required Taxonomies – Categories and Tags Mandatory
+WP REST Filter
+WP REST User
+WP Review Slider
+WP BugBot
+WP Cloud Server
+WP Contact Slider
+WP Coupons and Deals – WordPress Coupon Plugin
+WP Custom field for Gutenberg Editor
+WP Data Access
+WP Disable Sitemap
+WP EasyPay – Square for WordPress
+WP Encryption – One Click Free SSL Certificate & SSL / HTTPS Redirect to Force HTTPS, SSL Score
+WP Event Partners – WordPress Plugin for Event and Conference Management
+WP fail2ban – Advanced Security Plugin
+WP FOFT Loader
+WP Frontend Admin – Display WP Admin Pages in the Frontend
+WP Frontend Profile
+WP Full Picture – Analytics & Cookie Notice
+WP Genealogy – Your Family History Website
+WP Google Review Slider
+WP Group Promoter
+WP How to – WordPress Tutorial Videos
+WordPress Image Compression and Optimizer Plugin – CheetahO
+WordPress News Plugin – TopNewsWp
+WordPress Notification Bar Plugin – TinyBar
+WordPress Persistent Login
+WordPress Reviews by ReviewPress
+WordPress SEO Audit Plugin – WP Site Auditor
+WordPress SEO Checklist
+WordPress Shortcodes Plugin — Shortcodes Ultimate
+WordPress Slider Block Gutenslider
+WordPress Slider Plugin – Block Slider
+WordPress Slideshow Gallery Plugin – Easy Slideshow
+WordPress Table Builder – TableGenie
+WordPress Testimonial Plugin – HmTestimonial
+WordPress Translation plugin for Post, Pages & WooCommerce products. Tranzly IO AI DeepL automatic WordPress Translator.
+WordPress YouTube, Vimeo and more elements security Plugin (GDPR)
+WP Activity Log
+WP Adminify – Custom Login, Admin Dashboard, Admin Columns | White Label | Media Library Folders
+WP Advanced Comment
+WP AutoMedic
+WP AutoTerms: Privacy Policy Generator (GDPR & CCPA), Terms & Conditions Generator, Cookie Notice Banner
+WoowGallery – image gallery / content gallery / ecommerce gallery / social gallery / video gallery / album photo gallery
+Word Count Analysis
+WordApp Mobile App Plugin – Convert your WordPress Site to a Mobile App
+WordLive | Livecall Addon for Woocommerce
+WordPress Animation Plugin – Animated Everything
+WordPress Auto SEO Plugin – Upfiv SEO Wizard
+WordPress Behance Plugin – Make a Portfolio, Feed, Gallery, Slider and More
+WordPress Books Gallery
+WordPress Buffer – HYPESocial. Social Media Auto Post, Social Media Auto Publish and Schedule
+WordPress Coupon Plugin for Bloggers and Marketers – WP Offers
+WordPress Easy Call Now Button by elixirs.io
+WordPress Editable Posts Table for the Frontend
+WordPress Everse Starter Sites – Elementor Templates
+WordPress form builder plugin for contact forms, surveys and quizzes – Tripetto
+WordPress Form Customizer | CF7 Customizer
+WordPress Gallery Plugin – Edge Photo Gallery
+WordPress Gallery Plugin – NextGEN Gallery
+WordPress Google Translate
+WordPress Gutenberg Blocks, Bootstrap Blocks, WPForms Styler – Blockington
+WordPress HelpDesk & Support Ticket System Plugin – Octrace Support
+WooCommerce Bulk Edit Coupons – WP Sheet Editor
+WooCommerce Bulk Edit Products – WP Sheet Editor
+WooCommerce Country Catalogs – Product Country Restrictions
+WooCommerce Cross-Seller
+Woocommerce Customers Order History
+WooCommerce Customers Table: View, Search, Bulk Editor
+Woocommerce Delivery Date Premium
+WooCommerce Disable Payment Methods based on cart conditions
+WooCommerce Etsy Integration
+WooCommerce EU VAT Assistant
+WooCommerce Extra Fees Lite – Use for Extra charge + Conditional Fee + Extra Cost for WooCommerce
+WooCommerce Google Ads Dynamic Remarketing
+WooCommerce Google Analytics Integration By Advanced WC Analytics
+WooCommerce Google Sheet Connector
+WooCommerce Next Order Coupon
+WooCommerce PayPlug
+WooCommerce Role Based Pricing by Meow Crew
+WooCommerce Shipping gateway per Product
+WooCommerce Simple Frontend Manager
+WooCommerce upcoming Products
+WCC SEO Keyword Research
+Web3 Coin Gate
+Web3 Token Gate
+Webba Booking: Appointment & Event Booking Calendar Plugin
+Webinar Plugin: Create live/evergreen/automated/instant webinars, stream & Zoom Meetings | WebinarIgnition
+Webriti Companion
+Weglot Translate – Translate your WordPress website and go multilingual
+Weight Based Shipping For WooCommerce
+Wholesale For WooCommerce Lite – B2B & B2C Solution
+Widgets for SiteOrigin
+Widgets for WooCommerce Products on Elementor
+Widgets on Pages
+Windsor Strava Athlete
+WN Flipbox Pro
+Woo Admin Product Notes
+Woo Ukrposhta
+WooBuddy -> Groups
+WooCommerce Affiliate Plugin – Coupon Affiliates
+WooCommerce Attribute Stock – Share Stock Between Products (Lite Version)
+Unlimited Theme Addon For Elementor and WooCommerce
+Upcasted S3 Offload – AWS S3, Digital Ocean Spaces, Backblaze, Minio and more
+Update URLs – Quick and Easy way to search old links and replace them with new links in WordPress
+URL Shortify – Simple, Powerful and Easy URL Shortener Plugin For WordPress
+User Menus – Nav Menu Visibility
+Utilitify – Supercharge Your WordPress Site With Powerpack WordPress Utilities
+Variable Inspector
+Variable Product Swatches for WooCommerce
+Variation Swatches and Gallery for WooCommerce
+Variation Swatches for WooCommerce Stores
+Video Analytics for Cloudflare Stream
+Video Player for YouTube
+Video Reviews / Video Widget
+Videopack
+VO Store Locator – WP Store Locator Plugin
+W3SCloud Contact Form 7 to Zoho CRM
+Wadi Addons for Elementor
+Wadi Survey
+Walker Core
+WC REST Payment
+Turbo Widgets
+Turnstile Cloudflare CAPTCHA – A friendly, free CAPTCHA replacement
+TwentyFourth WP Scraper
+Ua Marketplace
+Ultimate Blocks – Gutenberg Blocks Plugin
+Ultimate Carousel For Divi
+Ultimate Custom ScrollBar
+Ultimate Divi Modules Suite – Divi Sumo Lite
+Ultimate Downloadable Products for WooCommerce
+Ultimate Gutenberg – Custom Block Templates
+Ultimate Infinite Scroll Plugin
+Ultimate LinkedIn Integration
+Ultimate Post Kit Addons For Elementor – (Post Grid, Post Carousel, Post Slider, Category List, Post Tabs, Timeline, Post Ticker, Tag Cloud)
+Ultimate SMS Notifications for WooCommerce
+Ultimate Widgets Light
+Ultimeter
+UltraAddons – Elementor Addons (Header Footer Builder, Custom Font, Custom CSS,Woo Widget, Menu Builder, Anywhere Elementor Shortcode)
+Under Construction
+Universal email preference center
+Unlimited Elements For Elementor (Free Widgets, Addons, Templates)
+Tag Groups is the Advanced Way to Display Your Taxonomy Terms
+Tarot Card Oracle
+Team Members – A WordPress Team Plugin with Gallery, Grid, Carousel, Slider, Table, List, and More
+Team Members – Best WordPress Team Plugin with Live Team Builder
+Ted – WordPress Classic Block Editor Plugin
+Temp Mail
+Template Manager for Gutenberg Block
+TempTool [Show Current Template Info]
+Terms & Conditions Per Product
+Thank You Page for WooCommerce
+The best plugin for restrict content, support all Custom Post Types and Elementor – Password Protected
+Themereps Helper
+Tiered Pricing Table for WooCommerce
+TK Event Weather
+TK Google Fonts GDPR Compliant
+TK SmugMug Slideshow Shortcode
+Top Bar – PopUps – by WPOptin
+Tori Ajax
+Total Cost Input for WooCommerce
+TreePress – Easy Family Trees & Ancestor Profiles
+Subaccounts for WooCommerce
+Subscriber Addons for The Events Calendar
+Super Notes – create Admin Notes with ease
+Super Social Content Locker Lite
+Super Video Player
+Surbma | GDPR Proof Cookie Consent & Notice Bar
+SV Columns Manager
+SV Forms
+SV Gravity Forms Enhancer
+SV Media Library
+SV Posts
+SV Proven Expert
+SV Tracking Manager
+SV100 Companion
+SVG Flags – Beautiful Scalable Flags For All Countries!
+Sync eCommerce NEO
+Table Rate Shipping for WooCommerce
+TablePress – Tables in WordPress made easy 
+Tablesome – Data table & Workflow Automation ( Contact Form Entries – CF7, WPForms,.. / Email Log / OpenAI / ChatGPT )
+Tabs with Recommended Posts (Widget)
+SSL Zen – Free SSL Certificate & HTTP/SSL to HTTPS/SSL Redirect WordPress Plugin
+Stackable – Page Builder Gutenberg Blocks
+Staggs – Product configurator for WooCommerce
+Starcat Review – WordPress Reviews & Rating Plugin with Woocommerce Integration
+Starfish Review Generation & Marketing for WordPress
+STARTEND Subscription Add-On for GravityForms
+Station Pro
+STAX Header Builder
+STEWoo – Super Transactional Emails for WooCommerce
+StickyWooCart – Ajax Add to Cart for WooCommerce
+Stop User Enumeration
+Stop WP Emails Going to Spam
+Store Locator Plus® | Extended Data Manager
+Store Locator Plus® | Extenders
+Store Locator Plus® | Gravity Forms Locations
+Store Toolkit for WooCommerce
+Streak CRM For Gmail For Contact Form 7 – WordPress Plugin
+StreamCast – Radio Player for WordPress
+Stripe Express
+Strumenti Partita IVA per Woocommerce
+Smart phone field for Gravity Forms
+Smart Protect
+Smart Variations Images & Swatches for WooCommerce
+SMS for WooCommerce
+SMS OTP Easy Login with Mocean
+SnazzyAdmin WP Admin Theme
+Social Kit
+SocialMark – Easy Watermark/Logo on Social Media Post Link Share Preview
+SonaWP – PayPal Payment Block – Donations Block – Sell Digital Work
+South Pole: Climate action now
+Spanish Market Enhancements for WooCommerce
+Sparrow: Product Reviews and Ratings for WooCommerce
+Spice Blocks
+Spice Box
+Spice Starter Sites
+Split Pay for Stripe Connect on Woocommerce – Create a Marketplace in Minutes
+Spotlight Social Feeds [Block, Shortcode, and Widget]
+Spreadsheet Integration – Automate Google Sheets With WordPress, WooCommerce & Most Popular Form Plugins. Also, Display Google sheet as a Table.
+Sprout Clients – CRM and Lead Management
+SQL Reporting Services – SSRS Plugin for WordPress
+Shipping Manager For WooCommerce
+Shipping Method Display Style for WooCommerce
+Shipping method for WooCommerce – Use for Conditional shipping + Extra shipping + flat rate shipping method + Table Rate Shipping for WooCommerce
+ShortcodeHub – MultiPurpose Shortcode Builder
+Show Eventbrite Events – Event Feed for Eventbrite
+Simple blueprint installer
+Simple Cart
+Simple Feature Requests Free – User Feedback Board
+Simple Freemius Shop
+Simple Giveaways – Grow your business, email lists and traffic with contests
+Simple Sitemap – Create a Responsive HTML Sitemap
+Simple Social Page Widget & Shortcode
+Simple Sponsorships
+Simple Tour Guide
+Simply Featured Video – Featured video support for WordPress
+Sites Monitor
+Sky Login Redirect
+Slider Addons for The Events Calendar
+Smart Admin Menu Filter
+Smart Floating / Sticky Buttons – Call, Sharing, Chat Widgets & More – Buttonizer
+Sales Page Addon – Elementor & Beaver Builder
+Salon booking system 
+Salt Shaker
+Schema Plugin For Divi, Gutenberg & Shortcodes
+Script Planner
+Scrollbar Customizer
+Scrollsequence – Cinematic Scroll Image Animation Plugin
+Search Console
+Search Field for Gravity Forms
+Search Merchandising – Track & Manage WooCommerce Product Search
+Secure IP Logins
+Security Ninja – Secure Firewall & Secure Malware Scanner
+Send Prebuilt Emails
+Send Users Email
+SEO Booster
+Seo Optimized Images
+Server Info
+Share This Image
+Shared Files – Easy Download Manager and File Sharing Plugin with Frontend File Upload
+Shipping for Nova Poshta
+Reduce HTTP Requests, Disable Emojis & Disable Embeds, Speedup WooCommerce
+RelicWP Helper
+Remove Add to Cart Button for WooCommerce
+Remove WP Update Nags
+remove-cart-and-query-button
+Replyable – Subscribe to Comments and Reply by Email
+Reset Course Progress For LearnDash
+Responsive Accordion Tabs
+Rest Routes – Custom Endpoints for WordPress REST API
+Restaurant & Cafe Addon for Elementor
+Restrict Posts based on Conditions – Conditional Post Restrictions
+Restrict User Access – Membership & Content Protection
+RevivePress – Keep your Old Content Evergreen
+Rocket Maintenance Mode & Coming Soon Page
+Role Based Bulk Quantity Pricing
+Royal Elementor Addons and Templates
+RSS Control
+RT Easy Builder – Advanced addons for Elementor
+Run Contests, Raffles, and Giveaways with ContestsWP
+RW Divi Unite Gallery
+Quick Event Manager
+Quick Paypal Payments
+Quick Reports for Woocommerce
+Quiz Cat – WordPress Quiz Plugin
+Quote for WooCommerce Lite
+Quote Requests for WooCommerce
+QuotePress – Quote Estimate
+Qyrr – simply and modern QR-Code creation
+Radio Player – Live Shoutcast, Icecast and Any Audio Stream Player for WordPress
+Radio Station by netmix® – Manage and play your Show Schedule in WordPress!
+Raise Prices with Sales for WooCommerce
+Random Sorting Order for WooCommerce
+RankBear
+Rating-Widget: Star Review System
+Reader Mode – Distraction-Free Content Reader
+Really Simple Featured Video – Featured video support for Posts, Pages & WooCommerce Products
+Recurring Bookings for WooCommerce
+RecurWP – WordPress Recurly Payment Gateway
+Redirect 404 Error Page to Homepage or Custom Page with Logs
+Redirection for Contact Form 7
+Product Customer List for WooCommerce
+Product Delivery Date
+Product Feed Manager – WooCommerce to Google Shopping, Social Catalogs, and 170+ Popular Marketplaces
+Product Feed on WooCommerce for Google, Awin, Shareasale, Bing, and More
+Product Filter Widget for Elementor
+Product Finder For WooCommerce
+Product Layouts for Woocommerce ( Product Gallery, Product Showcase, Layout Design, Category Tabs, Product Slider, Product Grid, Product Table )
+Product Options and Price Calculation Formulas for WooCommerce – Uni CPO
+Product Price History for WooCommerce
+Product Shipping Countdown Free
+Product Size Charts Plugin for WooCommerce
+Product Table for WooCommerce
+Projectopia – WordPress Project Management Plugin
+Protect Admin
+Protect Uploads with Login – Protect Your Uploads
+PublishPress Planner: Organize and Schedule Your WordPress Content
+PureDevs Customer History for WooCommerce
+Quick Audio Player – Best HTML5 Audio Player Plugin for WordPress
+Quick Bulk Variations Checkout for WooCommerce
+Quick Contact Form
+Premmerce Redirect Manager
+Premmerce SEO for WooCommerce
+Premmerce User Roles
+Premmerce Variation Swatches for WooCommerce
+Premmerce Wholesale Pricing for WooCommerce
+Premmerce Wishlist for WooCommerce
+Premmerce WooCommerce Customers Manager
+Premmerce WooCommerce Toolkit
+Press Elements – Widgets for Elementor
+Pretty Simple Popup Builder
+Price Bands for WooCommerce
+Primary Addon for Elementor
+Prime Affiliate Links – Super-Powered Affiliate Links Manager
+Prime Slider – Addons For Elementor (Revolution of a slider, Hero Slider, Media Slider, Drag Drop Slider, Video Slider, Product Slider, Ecommerce Slider)
+Print My Blog – Print, PDF, & eBook Converter WordPress Plugin
+Printus – Cloud Printing Plugin for WooCommerce – Print WooCommerce PDF Invoices, Orders, Packaging Slips & More
+Pro Broken Links Maintainer
+Process Dezrezone XML for upload
+Product Attachment for WooCommerce
+Product Author for WooCommerce
+Popups – WordPress Popup
+Post Carousel Divi
+Post Form – Registration Form – Profile Form for User Profiles – Frontend Content Forms for User Submissions (UGC)
+Post Slider and Post Carousel with Post Vertical Scrolling Widget – A Responsive Post Slider
+POST SMTP Mailer – Email log, Delivery Failure Notifications and Best Mail SMTP for WordPress
+Post Snippets – Custom WordPress Code Snippets Customizer
+Postcode Redirect
+Posts List Designer by Category – List Category Posts Or Recent Posts
+PowerPack Lite for Beaver Builder
+Preloader for Divi
+Preloader Plus – WordPress Loading Screen Plugin
+PremiumBlogAddons – Premium Blog Addons – Amazing Blog Layouts
+Premmerce
+Premmerce Brands for WooCommerce
+Premmerce Frequently Bought Together for WooCommerce
+Premmerce Multi-currency for Woocommerce
+Premmerce Permalink Manager for WooCommerce
+Premmerce Pinterest for WooCommerce
+Premmerce Product Filter for WooCommerce
+Premmerce Product Search for WooCommerce
+Password Protected
+Passwordless Login with OTP / SMS & Email – Facebook Account Kit
+Past Events Extension
+Pay For Post with WooCommerce
+Pay With Stripe – Your WordPress Payments Stripe Gateway
+Payment Gateway for PayFabric
+Payment Gateway Groups for WooCommerce
+Payment gateway per Product for WooCommerce
+Payment Page | Best Payment Plugin for Stripe & PayPal
+Perelandra Sermons
+Pets
+Phraseanet WordPress Client
+Pickup & Delivery from Customer Locations for WooCommerce
+Pinblocks — Gutenberg blocks with Pinterest widgets
+Pixel Manager for WooCommerce – Track Google Analytics, Google Ads, TikTok and more
+Place Order Without Payment for WooCommerce
+Podcast Box – Best Podcasting Plugin for WordPress
+Pods – Custom Content Types and Fields
+Pootle Pagebuilder – WordPress Page builder
+PopOverXYZ – Show Light Weight Beautiful Tool Tips On Any Text
+Notification Bar, Announcement and Cookie Notice WordPress Plugin – FooBar
+NOWPayments For WooCommerce
+Number Chat
+Ocean Extra
+OliveWP Companion
+One Page Blocks
+Online Booking for Barbershops and Salons
+Open User Map | Everybody can add locations
+OpenAgenda for WordPress
+Opensea
+Order and Inventory Manager for WooCommerce
+Order Picking For WooCommerce
+Order Redirects for WooCommerce
+Overlay Image Divi Module
+Page Builder for Gutenberg – StarterBlocks
+Page Builder Sandwich – Front End WordPress Page Builder Plugin
+Page Visit Counter
+PageManager
+Panorama Viewer – 360 Degree Image + Video Viewer
+Passster – Password Protect Pages and Content
+Multicollab – Google Docs-Style Collaboration in WordPress
+Multilevel Referral Affiliate Plugin for WooCommerce
+Multilist Subscribe for Sendy
+Multiple Page Generator Plugin – MPG
+Multipurpose Gutenberg Block
+Multisite Robots.txt Manager
+Music Player for Elementor – Audio Player & Podcast Player
+myCred – Points, Rewards, Gamification, Ranks, Badges & Loyalty Plugin
+Netforum Member Directory
+netFORUM Single Sign On
+New Order Notification
+New User Approve
+News & Blog Designer Pack – WordPress Blog Plugin — (Blog Post Grid, Blog Post Slider, Blog Post Carousel, Blog Post Ticker, Blog Post Masonry)
+NEXUS
+Ninja Forms Google Sheet Connector
+Nitek Carousel Slider Cool Transitions
+NMI Gateway For WooCommerce
+NoFollow jQuery Links
+Noted PRO
+Notification – Custom Notifications and Alerts for WordPress
+Memory Meter
+Menu Image, Icons made easy
+Menu Manager Ultra
+Menukaart – Restaurant Menu & Online Ordering with WooCommerce
+Message Filter for Contact Form 7
+Meta Tag Manager
+Migrate WordPress Website & Backups – Prime Mover
+Minimum and Maximum Quantity for WooCommerce
+Missing Widgets for Elementor
+Mobile App Editor – WordPress to Android App Builder
+Mobile Blocks
+Mobile blocks
+Mobile Booster
+MoceanAPI Abandoned Carts for WooCommerce
+MoceanAPI Order SMS Notification for WooCommerce
+MoceanAPI SendSMS
+Modern Addons for Elementor Page Builder
+Modern Designs for Gravity Forms
+Moose Elementor Kit
+Multi Page Auto Advance for Gravity Forms
+Local SEO For Divi & Gutenberg Blocks
+Locations and Areas – Leaflet Map with Region Tabs
+Locked Payment Methods for WooCommerce
+Logo Showcase with Logo Carousel, Logo Slider & Logo Grid
+Logo Showcase with Slick Slider – Logo Carousel, Logo Slider & Logo Grid
+Magic Login API
+Magic Post Thumbnail
+Mail Bank – #1 Mail SMTP Plugin for WordPress
+Mail Control – Email Customizer, SMTP Deliverability, logging, open and click Tracking
+MailChimp Immediate Send
+Mapster WP Maps
+Marijuana Age Verify
+Market Exporter
+Mass Pages/Posts Creator
+Master Accordion ( Former WP Awesome FAQ Plugin )
+Master Addons for Elementor
+MasterStudy LMS WordPress Plugin – for Online Courses and Education
+Media Cloud for Amazon S3, Cloudflare R2, Google Cloud Storage, DigitalOcean Spaces and more
+Media Library File Download 
+Membership Plugin – Restrict Content
+KVoucher
+LawPress – Law Firm Website Management
+License Manager for WooCommerce
+Lightbox – EverlightBox Gallery
+Lightbox & Modal Popup WordPress Plugin – FooBox
+Lightweight Widget Area Plugin – Content Aware Sidebars
+Limb Gallery | Create Beautiful Image & Video Galleries
+Link in Bio Creator – Social
+Linked Orders for WooCommerce
+LittleBot Invoices
+Live Drag and Drop Builder for Contact Form 7
+Live Sales Notification for Woocommerce – Woomotiv
+Live Scores for SportsPress
+Live TV Player – Worldwide Live TV Channels Player for WordPress
+Livemesh Addons for Beaver Builder
+Livemesh Addons for Elementor
+Livemesh Addons for WPBakery Page Builder
+Livemesh SiteOrigin Widgets
+LMS Plugin – eLearning, Online Courses by Attest
+Local Delivery Drivers for WooCommerce
+Integrate Google Drive – Browse, Upload, Download, Embed, Play, Share, Gallery, and Manage Your Google Drive Files Into Your WordPress Site
+Interactive Contact Form and Multi Step Form Builder with Drag & Drop Editor – Funnelforms Free
+Interactive Geo Maps
+Internal Comments
+Internal Link Flow & Topical Authority & Topical Map
+Internal Link Juicer: SEO Auto Linker for WordPress
+InternalLink Audit
+Issues Tracker
+Ivory Search – WordPress Search Plugin
+jav&#039;s – WooCommerce and Trello integration WooTrello
+JC Ajax Search for WooCommerce
+Joli CLEAR Lightbox
+Joli FAQ SEO – WordPress FAQ Plugin
+Joli Table Of Contents
+Justified Gallery
+Kanzu Support Desk – WordPress Helpdesk Plugin
+Kenta Companion
+Kenta Gutenberg Blocks – Responsive Blocks and block templates library for Gutenberg Editor
+Kikote – Location Picker at Checkout & Google Address AutoFill Plugin for WooCommerce
+kk Star Ratings
+Gyta BuyBack
+Hide Shipping Method For WooCommerce
+Hire Me Widget
+HM Multiple Roles
+Hooked Editable Content
+HQTheme Extra
+HuCommerce | Magyar WooCommerce kiegészítések
+Human Resource Management (HRM) for WordPress – FooPeople
+ICEcoder integration
+Iks Menu – WordPress Category Accordion Menu & FAQs
+Image Carousel For Divi
+Image Photo Gallery Final Tiles Grid
+Impexium Single Sign On
+Import Social Statistics
+Inavii for Elementor Social Feed
+Inbound Brew
+Independent Analytics – Google Analytics Alternative for WordPress
+Information for help
+Insert or Embed Articulate Content into WordPress
+integrate automate
+Glossary
+Go Fetch Jobs (for WP Job Manager)
+Go Viral – social share, social sharebar, social locker, social chat, open graph, reactions, share & view counters
+Goal Tracker – Custom Event Tracking for GA4
+GOAuth
+Google Analytics WordPress Plugin by GA4WP
+Google Maps Plugin by Intergeo
+Goon – Speed Up Your WordPress Site
+GraphComment Comment system
+Gravity Forms Sticky List
+GravityCaptcha
+GravityStripe Subscription Manager
+Greenshift – animation and page builder blocks
+Grid & Styler For Contact Form 7 And Divi
+Guest Author Affiliate
+Guestofy – Restaurant Reservations Plugin, Room Planer, Reservation Form
+Gutenberg Block Editor Toolkit – EditorsKit
+Gutenberg Blocks – ACF Blocks Suite
+Gutenberg Forms – WordPress Form Builder Plugin
+Gutentor – Gutenberg Blocks – Page Builder for Gutenberg Editor
+Funnelmentals
+Fuse Social Floating Sidebar
+Gallery Bank – WordPress Photo Gallery Plugin
+Gallery Blocks with Lightbox. Image Gallery, (HTML5 video , YouTube, Vimeo) Video Gallery and Lightbox for native gallery
+Gallery PhotoBlocks
+Gateway for PayLate on WooCommerce
+GDPR & DSGVO Compliant Maps | GeoUNIT Maps
+Genealogical Tree – WordPress Family Tree
+Geo Mashup
+GeoTargeting WP
+Get Better Reviews for WooCommerce
+Get Cash
+Get Directions Map
+Get feedback from visitors – WP Feedback Suite Plugin
+GFireM Advance Search
+GFireM Fields
+Gift Message for WooCommerce
+Global Income Stats from Freemius
+Glorious Services & Support
+GloriousThemes Starter Sites
+FloraPress – Your Garden on WordPress
+Food Recipes
+Food Store – Online Food Delivery & Pickup
+Footer Plugin for Divi
+ForceField
+Form Vibes – Database Manager for Forms
+Forms to Sheets
+Forms to Zapier, Integromat, IFTTT, Workato, Automate.io, elastic.io, Built.io, APIANT, Webhook
+FormsCRM
+Free Shipping Label and Progress Bar for WooCommerce
+Free SSL Certificate Plugin, HTTPS Redirect, Renewal Reminder – Auto-Install Free SSL
+freemage
+Freshing
+Front End PM
+Frontend Admin – Add and edit posts, pages, users and more all from the frontend
+Frontend Admin by DynamiApps
+Frontend group restriction for LearnDash
+Fullworks Directory
+Fullworks Firewall
+Fullworks Slack
+Fast Custom Social Share by CodeBard
+Fast Index
+Fast WordPress
+Featured images in RSS feed — RSS Chimp
+Featured Images in RSS for Mailchimp & More
+Featured Products First for WooCommerce – A Extension of WooCommerce (WooCommerce Addon Plugin)
+FeedbackScout: The easiest way to collect, prioritise, manage and track customer feedback.
+Feedpress Generator
+FiboSearch – Ajax Search for WooCommerce
+Files Download Delay
+Filr – Secure document library
+FIT: Featured Image Toolkit
+Five-Star Ratings Shortcode
+Fixed IP Logins
+Flat Rate Shipping Plugin For WooCommerce
+Flexible FAQs – Accordion FAQ Plugin for WordPress
+Flight Search Widget and Blocks
+Floating Awesome Button (Sticky Button & Popup) – CTA, Back to Top, Shortcodes, Widget, & More
+Floating Contact Form & Social Chat for WordPress – SupportBubble
+Floating Social Share Icons and Social Share buttons – Next Previous Post Links – FL
+Embedder for Google Reviews 
+EmbedPress – Embed PDF, YouTube, Google Docs, Vimeo, Wistia Videos, Audios, Maps & Any Documents in Gutenberg & Elementor
+Enhanced Ecommerce Google Analytics for WooCommerce
+enhanced-catalog-images-for-woocommerce
+Enjoy Social Feed plugin for WordPress website
+eRoom – Zoom Meetings & Webinars
+Error Log Monitor
+Ether and ERC20 tokens WooCommerce Payment Gateway
+Ethereum Wallet
+EthereumICO
+EthPress – Web3 Login
+Event Tickets and Registration
+Eventbrite EventON
+Events Addon for Elementor
+Expandable Paywall
+External Media Upload
+Extra Fees Plugin for WooCommerce
+F4 Post Tree
+FAQ Manager For Divi, Gutenberg Block & Shortcode
+Fast Checkout for WooCommerce
+Easy Social Feed – Social Photos Gallery – Post Feed – Like Box
+Easy Social Photos Gallery – MIF
+Easy Tiktok Feed
+Easy Watermark
+Easy Zillow Reviews
+EazyDocs – Most Powerful Knowledge base, wiki, Documentation Builder Plugin (easy docs, knowledgebase)
+eCommerce Addon
+eCommerce Shopping Cart and Funnel Builder – Studiocart
+EDD Tab Manager
+Education Addon for Elementor
+Element Pack Elementor Addons (Header Footer, Free Template Library, Grid, Carousel, Table, Parallax Animation, Register Form, Twitter Grid)
+Elementor Addon Elements
+Elementor Forms Google Sheet Connector
+Elementor Stripe Payment
+Elements for LifterLMS
+Email Header Footer
+Email Tracker – Email Tracking Plugin to track Emails for Open and Email Links Click (Compatible with WooCommerce)
+Emails Blacklist for Everest Forms
+Embed Docs – Elementor Files Addon,Elementor Docs Addon,Embed PDF, Word, PowerPoint and Excel Files in Gutenberg & Elementor
+Embed Video Thumbnail
+Document Viewer for Office
+DokoBuilder : DIY Product Bundle for WooCommerce
+Domain Mapping System | Manage Multiple Domains in a Single WordPress Site
+Download Magnet
+Dracula Dark Mode – The Revolutionary Dark Mode Plugin For WordPress
+Drop Shadow Boxes
+Duplicate Variations for Woocommerce
+Dynamic Pricing and Discount Rules for WooCommerce
+Dynamic Pricing for WooCommerce
+Easy Age Verify
+Easy Caller with Mocean
+Easy Courses
+Easy Digital Downloads Google Sheet Connector
+Easy Order View
+Easy Photography Portfolio
+Easy Prayer
+Easy Responsive Pricing Tables
+Easy Schema – Structured Data & Rich Snippets
+Easy Settings for LearnDash
+Easy Smooth Scroll Links – Smooth Scrolling Anchor
+DeMomentSomTres Gravity Forms Improvements
+DeMomentSomTres Subscribe
+DeMomentSomTres WordPress Export Posts With Images
+Design for Contact Form 7 Style WordPress Plugin – CF7 WOW Styler
+DEV.LAND
+Device Frame
+Device Wrapper
+Different Home for Logged IN & Logged OUT
+Digital Goods for WooCommerce Checkout
+Disable Bloat for WordPress & WooCommerce
+Display Data on your site! Create Dynamic Content Templates from any form of data. Works with ACF, Pods, BuddyPress/ BuddyBoss
+Display Eventbrite Events
+Divi Carousel Lite
+Divi Carousel Lite – 17+ Carousel Module
+Divi Collage
+Divi Content Restrictor
+DIVI Enhancer – DIVI Modules and Options
+Divi Form Builder With Material Design
+Divi Testimonial Plus
+Divi Torque Lite
+Custom User Guide
+Custom Welcome Guide
+Custom WooCommerce Checkout Fields Editor
+Customer Chat Facebook
+Customize WordPress Emails and Alerts – Better Notifications for WP
+Customizer custom controls with Drag and Drop builder – Customizely
+Da Reactions
+DancePress (TRWA)
+Dashy – Google Analytics advanced dashboard
+Database Table Overview and Logs
+Date Picker by Input WP – Sync bookings with external Calendars (.ics)
+Delete Duplicate Posts
+Delete old Posts automatically
+Delicious Recipes – Best WordPress Recipe Plugin
+Delivery & Pickup Scheduling DateTime Picker Plugin for WooCommerce – Date Time Picker Plugin for WooCommerce
+Delivery Drivers for Vendors
+Delivery Drivers Manager
+Delivery for WooCommerce
+DeMomentSomTres Categories
+DeMomentSomTres Classify on Publish
+Content Slider for WP Posts (Section Slider)
+Convert Classic Editor to Gutenberg Blocks 
+Convoworks WP
+Cooked – Recipe Plugin
+Cookii – Free GDPR Cookie Consent
+Cool Author Box – For Widget and Post Content
+Copy Anything to Clipboard
+Cost Calculator Builder
+Country Based Payments for WooCommerce
+Court Reservation – Manage Your Court Bookings Online
+Cozy Addons for Elementor – Header and Footer builder for Elementor, Layout and Widgets for WooCommerce, Magazine, slider, blog and more.
+CPA OFFERWALL
+Cryptocurrency Portfolio Tracker
+Cryptocurrency Product for WooCommerce
+Custom Login Page Customizer
+Custom Login Page Customizer – Login Designer
+Custom Order Status Per Product for WooCommerce
+Custom Product Builder – Designer and Order Customized
+Custom Product Type For WooCommerce
+Custom Tabs for Products WooCommerce
+Conditional Logic for Woo Product Add-ons
+Conditional Payment Methods for WooCommerce
+ConeBlog – WordPress Blog Widgets
+Connect WooCommerce Holded
+Connected Sermons
+Constellation: Smart Tools for WooCommerce
+Contact Form 7 – Capsule CRM – Integration
+Contact Form 7 Designer
+Contact Form 7 Module For Divi Builder
+Contact Form 7 Multi-Step Forms
+Contact form builder for Gutenberg – Formello
+Contact Form By Mega Forms – Drag and Drop Form Builder
+Contact Form DB Divi
+Contact Form for WordPress- Cybrosys
+Contact List – Easy Contact Manager, Address Book and Business Directory Plugin
+Contact Widgets For Elementor all the contact links you need in one place
+Content Blocks Builder
+Content Hubs
+Content Scheduler – Schedule Posts, Editorial Calendar and Notes
+Content Sidebars
+Checkbox
+Checkout with Cash App on WooCommerce
+Checkout with Venmo on Woocommerce
+Checkout with Zelle on Woocommerce
+Child Support Calculator
+China Payments Plugin | Accept WeChat Pay and Alipay
+Choice Payment Gateway for WooCommerce
+Cleanup Action Scheduler
+ClimateClick: Climate Action for all
+ClinicalWP Core
+Cloud SAML SSO – Single Sign On Login
+Code Manager
+CodePile
+Coinbase Commerce – Crypto Gateway for WooCommerce
+Coinbase Commerce for Contact Form 7
+Coming Soon Master
+Coming Soon Page and Maintenance Mode for WordPress Block Editor
+Coming Soon Pages for WordPress – Coming Soon Booster
+Comments Not Replied To
+Compare Affiliated Products
+Bulk Edit Posts and Products in Spreadsheet
+Bulk Page Creator for WordPress – LPagery
+Bulk WooCommerce Category Creator
+Business Profile Reviews
+Caldera Forms – More Than Contact Forms
+Campation PostOffice – Send Email Spam-free on HighSpeed without WP SMTP Email plugin
+CAPTCHA 4WP
+Carousel, Recent Post Slider and Banner Slider
+Cart Weight for WooCommerce
+CartPops – High Converting Add To Cart Popup For WooCommerce
+Caxton – Create Pro page layouts in Gutenberg
+CF7 Constant Contact Fields Mapping
+CF7 ReCaptcha Mine
+CF7 Skins for Contact Form 7
+Chamber Dashboard Business Directory
+Change Price Title for WooCommerce
+Change Prices with Time for WooCommerce
+Chat Button- Leads and Order over Chat
+ChatPressAI – AI Supported Blogging and Reasearch
+Check Zipcode
+BookPress – For Book Authors
+BP WC Vendors
+BuddyDrive
+BuddyForms Anonymous Author
+BuddyForms Attach Post with Group
+BuddyForms EasyPin
+BuddyForms Form Elements for WooCommerce
+BuddyForms Hierarchical Posts
+BuddyForms Moderation ( Former: Review Logic )
+BuddyForms Posts 2 Posts
+BuddyForms Remote
+BuddyForms Ultimate Member
+BuddyPress & BuddyBoss Member Profile Forms
+BuddyPress WooCommerce My Account Integration. Create WooCommerce Member Pages
+Builder for WooCommerce product reviews shortcodes – ReviewShort
+Bulk Attachment Download
+Bulk Edit and Create User Profiles – WP Sheet Editor
+Bulk Edit Categories and Tags – Create Thousands Quickly on the Editor
+Bulk Edit Easy Digital Downloads – Fast Bulk Creator
+Bulk Edit Events – Create Events in a Bulk Editor
+Better Sharing 
+Bing Custom Search for WordPress
+Block Styler For Gravity Forms
+Block, Suspend, Report for BuddyPress
+Blocked in China | Check if your site is available in the Chinese mainland
+BlockMeister – Block Pattern Builder
+Blockons – Gutenberg blocks for WordPress and WooCommerce websites
+Blocks Bakery – Gutenberg Blocks
+Blocks Product Editor for WooCommerce
+Blockspare – Free Gutenberg Blocks for News, Magazine, and Business Websites (Templates, Patterns, and Page Builder)
+Blocksy Companion
+BlockyPage – Gutenberg Based Page Builder
+Blog Sidebar Widget
+BlogPost – BlogPost Widgets – Amazing Blog Layouts
+BlogSafe Scanner
+BNG Gateway For WooCommerce
+Book BuyBack Prices
+Booking Addon for WooCommerce
+Booking Calendar | Appointment Booking | BookIt
+Booking Weir
+Authorize.Net Payment Gateway For WooCommerce
+Auto Featured Image (Auto Generated)
+Auto Keyword Backlink
+Auto Set Admin Colour on Staging and Dev
+Autocomplete Address and Location Picker for WooCommerce
+AutoMail – Event-driven Email Automation. Easy email Notification and Auto-reply.
+Automatic YouTube Gallery
+Automizy Gravity Forms
+AutoSave Net
+Awesome Social Icons
+Awesome SSL
+azw woocommerce file uploads
+Backup Bolt
+BAVOKO SEO Tools – All-in-One WordPress SEO
+bbResolutions
+Before and After Product Images for WooCommerce
+Best Responsive Comparison Table for Gutenberg Editor – NicheTable
+Best WordPress Gallery Plugin – FooGallery
+Better Comments
+Better Messages – Live Chat for WordPress, BuddyPress, PeepSo, Ultimate Member, BuddyBoss
+Aiify Blocks – ChatGPT AI Copywriting, Content Writing, Rewriting and Editing 	1 	July 18, 2023
+Airpress 
+Ajax Live Search Plugin For WordPress
+Ajax Press – Easily Enable Fast Ajax Navigation
+All in One Video Downloader
+All-in-One Video Gallery
+Alley Business Toolkit
+Alt Manager 
+AnimateGL Animations for WordPress – Elementor & Gutenberg Blocks Animations
+annasta Woocommerce Product Filters
+Announcement & Notification Banner – Bulletin
+Ant Admin Notices for Team
+Anti Spam by Fullworks
+AnyComment
+AnyWhere Elementor
+APPExperts – Mobile App Builder for WordPress | WooCommerce to iOS and Android Apps
+Asset CleanUp: Page Speed Booster
+ASVG – Lottie icon library for Elementor
+Atlas – Knowledge Base
+Advance Search for WooCommerce
+Advanced Classifieds & Directory Pro
+Advanced Custom Fields Frontend Forms – ACF Forms – ACF Post Form – ACF Registration Form – ACF Content Form – ACF Profile Form
+Advanced Database Replacer
+Advanced Exchange Rates for WooCommerce Multilingual
+Advanced Form Integration – Connect WooCommerce and Contact Form 7 to Google Sheets and other platforms
+Advanced Page Visit Counter – Most Wanted Analytics Plugin for WordPress
+Advanced Product Sample for WooCommerce
+Advanced USPS Shipping Method 
+Advanced Visual Elements – Shortcode addons for Elementor & Gutenberg
+Advanced WP Table
+AffiEasy
+Affiliate Advantage – Sky Rocket Your Affiliate Marketing Business
+Affiliate Link Builder Plugin for Amazon Associates – Review Engine
+Age Verification Screen for WooCommerce
+AgendaPress – Easily Publish Meeting Agendas and Programs on WordPress
+AI Image Generator – Experience the future of image creation with AI
+AI Moderator for BuddyPress
+AI Power: Complete AI Pack – Powered by GPT-4
+AI Tools – Chatbot, ChatGPT, Content Generator, Image Generator, Artificial Intelligence GPT
+360 Javascript Viewer
+3D viewer – Embed 3D Models on WordPress
+404 to 301 – Redirect, Log and Notify 404 Errors
+5 Stars Rating Funnel WordPress Plugin | RRatingg
+A no-code page builder for beautiful performance-based content
+a-staff – Team member showcase plugin for WordPress
+AADMY – Add Auto Date Month Year Into Posts
+Abeta OCI PunchOut
+Accept Stripe Donation – AidWP
+Accordion & FAQ – Helpie WordPress Frequently Asked Questions plugin
+ACF for WooCommerce Product
+ACF-VC Integrator
+ActiveCampaign Email Preference Center
+Activity Log For MainWP
+Ad Blocker Notify Lite
+Add Expires Headers & Optimized Minify
+Admin Quick Panel
+Admin Speedo
+Admin User Search
+Advance Menu Manager
+1 click close store
+2MB Autocode
+eaSYNC
+The Events Calendar
+Post to Google My Business
+Remove Duplicate Posts
+Simple Author Box
+APIExperts Square for WooCommerce
+Woocommerce Category Banner Management
+Woocommerce Blocker Lite
+Social Share Icons & Social Share Buttons
+Web Accessibility By accessiBe
