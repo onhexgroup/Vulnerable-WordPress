@@ -10,6 +10,7 @@ Researchers can use this version for Nuclei template development, exploit develo
 | 2023 May | Tabriz Fire Fighting Tower | 259 | 340 |
 | 2023 June | Maragheh observatory | 168 | 227 |
 | 2023 July | Lake Urmia | 142 | 179 |
+| 2023 August |  Sa'at Tower | 160 | 180 |
 
 
 ## Hints:
