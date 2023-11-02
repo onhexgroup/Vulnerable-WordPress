@@ -12,6 +12,7 @@ Researchers can use this version for Nuclei template development, exploit develo
 | 2023 July | Lake Urmia | 142 | 179 |
 | 2023 August |  Sa'at Tower | 160 | 180 |
 | 2023 September |  Constitution House of Tabriz | 172 | 206 |
+| 2023 October |  Shah Goli | 273 | 317 |
 
 
 ## Hints:
