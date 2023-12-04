@@ -13,6 +13,7 @@ Researchers can use this version for Nuclei template development, exploit develo
 | 2023 August |  Sa'at Tower | 160 | 180 |
 | 2023 September |  Constitution House of Tabriz | 172 | 206 |
 | 2023 October |  Shah Goli | 273 | 317 |
+| 2023 November |  Book of Dede Korkut | 288 | 350 |
 
 
 ## Hints:
