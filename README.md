@@ -14,6 +14,7 @@ Researchers can use this version for Nuclei template development, exploit develo
 | 2023 September |  Constitution House of Tabriz | 172 | 206 |
 | 2023 October |  Shah Goli | 273 | 317 |
 | 2023 November |  Book of Dede Korkut | 288 | 350 |
+| 2023 December |  Shahriar | 234 | 284 |
 
 
 ## Hints:
