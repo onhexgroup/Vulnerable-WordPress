@@ -1,33 +1,35 @@
 # Vulnerable WordPress
-In this repository, we collect vulnerable WordPress plugins monthly and provide them to researchers. The output is a vulnerable WordPress that is easily installed.
-Researchers can use this version for Nuclei template development, exploit development, practice, training, etc. [Description in Farsi language](https://onhexgroup.ir/tag/%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3-%d8%a2%d8%b3%db%8c%d8%a8-%d9%be%d8%b0%db%8c%d8%b1/)
+We collect vulnerable WordPress plugins on a monthly basis and make them available to security researchers. The output is a vulnerable version of WordPress that can be easily installed.
+Security researchers can use this version for exploit development, Nuclei template development, practice, and training. [Description in Farsi language](https://onhexgroup.ir/tag/%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3-%d8%a2%d8%b3%db%8c%d8%a8-%d9%be%d8%b0%db%8c%d8%b1/)
 
+| D/M       | Years | Name                         | Plugins | Vulnerability | Years | Name             | Plugins | Vulnerability |
+| --------- | ----- | ---------------------------- | ------- | ------------- | ----- | ---------------- | ------- | ------------- |
+| January   | 2023  | \-                           | \-      | \-            | 2024  | Imadaddin Nasimi | 171     | 210           |
+| February  | 2023  | \-                           | \-      | \-            | 2024  | Jushin Castle    | 214     | 290           |
+| March     | 2023  | Arg of Tabriz                | 199     | 202           | 2024  | \-               | \-      | \-            |
+| April     | 2023  | Rab'-e Rashidi               | 263     | 324           | 2024  | \-               | \-      | \-            |
+| May       | 2023  | Tabriz Fire Fighting Tower   | 259     | 340           | 2024  | \-               | \-      | \-            |
+| June      | 2023  | Maragheh observatory         | 168     | 227           | 2024  | \-               | \-      | \-            |
+| July      | 2023  | Lake Urmia                   | 142     | 179           | 2024  | \-               | \-      | \-            |
+| August    | 2023  | Sa'at Tower                  | 160     | 180           | 2024  | \-               | \-      | \-            |
+| September | 2023  | Constitution House of Tabriz | 172     | 206           | 2024  | \-               | \-      | \-            |
+| October   | 2023  | Shah Goli                    | 273     | 317           | 2024  | \-               | \-      | \-            |
+| November  | 2023  | Book of Dede Korkut          | 288     | 350           | 2024  | \-               | \-      | \-            |
+| December  | 2023  | Shahriar                     | 234     | 284           | 2024  | \-               | \-      | \-            |
 
-| Month | Name | Plugins | Vulnerability |
-| --- | --- | ---| --- |
-| 2023 March | Arg of Tabriz | 199 | 202 |
-| 2023 April | Rab'-e Rashidi | 263 | 324 |
-| 2023 May | Tabriz Fire Fighting Tower | 259 | 340 |
-| 2023 June | Maragheh observatory | 168 | 227 |
-| 2023 July | Lake Urmia | 142 | 179 |
-| 2023 August |  Sa'at Tower | 160 | 180 |
-| 2023 September |  Constitution House of Tabriz | 172 | 206 |
-| 2023 October |  Shah Goli | 273 | 317 |
-| 2023 November |  Book of Dede Korkut | 288 | 350 |
-| 2023 December |  Shahriar | 234 | 284 |
 
 
 ## Hints:
-- This version contains vulnerabilities, so be careful when using it.
-- Avoid updating plugins.
-- Plugins are extracted from Wordfence reports.
-- Plugins are not activated and only installed.
-- This list only includes plugins that downloadable from WordPress.org.
+- This version includes vulnerable plugins, so please exercise caution when using it.
+- Do not update the plugins.
+- The plugins have been extracted based on reports from the wordfence.com.
+- The plugins have not been activated due to the potential for disruption.
+- It only includes plugins that are downloadable through the WordPress website.
 
 ## Install:
-- Download file and extract it
-- Create database and user database
-- run installer.php on browser
+- Download the file and extract it from the compressed format.
+- Create a database and a user for the database. 
+- Run the installer.php file in your browser.
 
 - Video: How to install on wamp (windows) [Youtube](https://www.youtube.com/watch?v=Bee8LZGpFG8) | [Aparat](https://www.aparat.com/v/wXrPU)
 - Vidde: How to install on kali (linux) [Youtube](https://www.youtube.com/watch?v=49EghnqsWII) | [Aparat](https://www.aparat.com/v/mfdAs)
