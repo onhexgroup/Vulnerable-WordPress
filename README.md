@@ -7,7 +7,7 @@ Security researchers can use this version for exploit development, Nuclei templa
 | January   | 2023  | \-                           | \-      | \-            | 2024  | Imadaddin Nasimi | 171     | 210           |
 | February  | 2023  | \-                           | \-      | \-            | 2024  | Jushin Castle    | 214     | 290           |
 | March     | 2023  | Arg of Tabriz                | 199     | 202           | 2024  | Kandovan         | 355     | 492           |
-| April     | 2023  | Rab'-e Rashidi               | 263     | 324           | 2024  | \-               | \-      | \-            |
+| April     | 2023  | Rab'-e Rashidi               | 263     | 324           | 2024* | Arasbaran        | 202     | 267           |
 | May       | 2023  | Tabriz Fire Fighting Tower   | 259     | 340           | 2024  | \-               | \-      | \-            |
 | June      | 2023  | Maragheh observatory         | 168     | 227           | 2024  | \-               | \-      | \-            |
 | July      | 2023  | Lake Urmia                   | 142     | 179           | 2024  | \-               | \-      | \-            |
@@ -18,6 +18,7 @@ Security researchers can use this version for exploit development, Nuclei templa
 | December  | 2023  | Shahriar                     | 234     | 284           | 2024  | \-               | \-      | \-            |
 
 
+*Considering the Wordfence bug bounty program and the increase in vulnerable plugins, from the April 2024 version onwards, only vulnerable plugins with a severity of 6 and higher will be collected.
 
 ## Hints:
 - This version includes vulnerable plugins, so please exercise caution when using it.
