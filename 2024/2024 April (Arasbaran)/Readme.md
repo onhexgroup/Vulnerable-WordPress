@@ -4,7 +4,7 @@ We released this version under the name 'Castle Forge'. ([For more information, 
 
 [Details in Persian](https://onhexgroup.ir/vulnerable-wordpress-april-2024/)
 
-Considering the Wordfence bug bounty program and the increase in vulnerable plugins, from the April 2024 version onwards, only vulnerable plugins with a severity of 6 and higher will be collected.
+Considering the Wordfence bug bounty program and the increase in vulnerable plugins, from the April 2024 version onwards, only vulnerable plugins with a score of 6 and higher will be collected.
 
 ## Information about the installed version of WordPress:
 
