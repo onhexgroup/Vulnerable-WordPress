@@ -18,7 +18,7 @@ Security researchers can use this version for exploit development, Nuclei templa
 | December  | 2023  | Shahriar                     | 234     | 284           | 2024  | \-               | \-      | \-            |
 
 
-*Considering the Wordfence bug bounty program and the increase in vulnerable plugins, from the April 2024 version onwards, only vulnerable plugins with a severity of 6 and higher will be collected.
+*Considering the Wordfence bug bounty program and the increase in vulnerable plugins, from the April 2024 version onwards, only vulnerable plugins with a score of 6 and higher will be collected.
 
 ## Hints:
 - This version includes vulnerable plugins, so please exercise caution when using it.
