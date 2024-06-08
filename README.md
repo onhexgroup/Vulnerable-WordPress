@@ -8,7 +8,7 @@ Security researchers can use this version for exploit development, Nuclei templa
 | February  | 2023  | \-                           | \-      | \-            | 2024  | Jushin Castle    | 214     | 290           |
 | March     | 2023  | Arg of Tabriz                | 199     | 202           | 2024  | Kandovan         | 355     | 492           |
 | April     | 2023  | Rab'-e Rashidi               | 263     | 324           | 2024* | Arasbaran        | 202     | 267           |
-| May       | 2023  | Tabriz Fire Fighting Tower   | 259     | 340           | 2024  | \-               | \-      | \-            |
+| May       | 2023  | Tabriz Fire Fighting Tower   | 259     | 340           | 2024  | Leylan           | 181     | 244           |
 | June      | 2023  | Maragheh observatory         | 168     | 227           | 2024  | \-               | \-      | \-            |
 | July      | 2023  | Lake Urmia                   | 142     | 179           | 2024  | \-               | \-      | \-            |
 | August    | 2023  | Sa'at Tower                  | 160     | 180           | 2024  | \-               | \-      | \-            |
