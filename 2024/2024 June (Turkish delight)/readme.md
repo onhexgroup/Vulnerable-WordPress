@@ -4,7 +4,7 @@ We released this version under the name 'Turkish delight'. ([For more informatio
 
 [Details in Persian](https://onhexgroup.ir/vulnerable-wordpress-june-2024/)
 
-Considering the Wordfence bug bounty program and the increase in vulnerable plugins, from the April 2024 version onwards, only vulnerable plugins with a score of 6 and higher will be collected.
+Due to the commencement of new projects and the diminishing significance of vulnerabilities with a severity level lower than 7, vulnerabilities with a severity level of 7 and above will be collected and reported from this version onwards.
 
 ## Information about the installed version of WordPress:
 
