@@ -8,8 +8,8 @@ Security researchers can use this version for exploit development, Nuclei templa
 | February  | 2023  | \-                           | \-      | \-            | 2024  | Jushin Castle    | 214     | 290           |
 | March     | 2023  | Arg of Tabriz                | 199     | 202           | 2024  | Kandovan         | 355     | 492           |
 | April     | 2023  | Rab'-e Rashidi               | 263     | 324           | 2024* | Arasbaran        | 202     | 267           |
-| May       | 2023  | Tabriz Fire Fighting Tower   | 259     | 340           | 2024  | Leylan           | 181     | 244           |
-| June      | 2023  | Maragheh observatory         | 168     | 227           | 2024  | \-               | \-      | \-            |
+| May       | 2023  | Tabriz Fire Fighting Tower   | 259     | 340           | 2024**| Leylan           | 181     | 244           |
+| June      | 2023  | Maragheh observatory         | 168     | 227           | 2024  | Turkish delight  | 54      | 55            |
 | July      | 2023  | Lake Urmia                   | 142     | 179           | 2024  | \-               | \-      | \-            |
 | August    | 2023  | Sa'at Tower                  | 160     | 180           | 2024  | \-               | \-      | \-            |
 | September | 2023  | Constitution House of Tabriz | 172     | 206           | 2024  | \-               | \-      | \-            |
@@ -19,6 +19,7 @@ Security researchers can use this version for exploit development, Nuclei templa
 
 
 *Considering the Wordfence bug bounty program and the increase in vulnerable plugins, from the April 2024 version onwards, only vulnerable plugins with a score of 6 and higher will be collected.
+**Due to the commencement of new projects and the diminishing significance of vulnerabilities with a severity level lower than 7, vulnerabilities with a severity level of 7 and above will be collected and reported from this version onwards.
 
 ## Hints:
 - This version includes vulnerable plugins, so please exercise caution when using it.
