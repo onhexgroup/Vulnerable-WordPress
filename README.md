@@ -20,7 +20,7 @@ Security researchers can use this version for exploit development, Nuclei templa
 
 *Considering the Wordfence bug bounty program and the increase in vulnerable plugins, from the April 2024 version onwards, only vulnerable plugins with a score of 6 and higher will be collected.
 
-**Due to the commencement of new projects and the diminishing significance of vulnerabilities with a severity level lower than 7, vulnerabilities with a severity level of 7 and above will be collected and reported from this version onwards.
+**Due to the commencement of new projects and the diminishing significance of vulnerabilities with a score lower than 7, vulnerabilities with a score of 7 and above will be collected and reported from this version onwards.
 
 ## Hints:
 - This version includes vulnerable plugins, so please exercise caution when using it.
