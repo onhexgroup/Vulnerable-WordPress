@@ -4,7 +4,7 @@ We released this version under the name 'Turkish delight'. ([For more informatio
 
 [Details in Persian](https://onhexgroup.ir/vulnerable-wordpress-june-2024/)
 
-Due to the commencement of new projects and the diminishing significance of vulnerabilities with a severity level lower than 7, vulnerabilities with a severity level of 7 and above will be collected and reported from this version onwards.
+Due to the commencement of new projects and the diminishing significance of vulnerabilities with a score lower than 7, vulnerabilities with a score of 7 and above will be collected and reported from this version onwards.
 
 ## Information about the installed version of WordPress:
 
