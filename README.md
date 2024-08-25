@@ -10,7 +10,7 @@ Security researchers can use this version for exploit development, Nuclei templa
 | April     | 2023  | Rab'-e Rashidi               | 263     | 324           | 2024* | Arasbaran        | 202     | 267           |
 | May       | 2023  | Tabriz Fire Fighting Tower   | 259     | 340           | 2024  | Leylan           | 181     | 244           |
 | June      | 2023  | Maragheh observatory         | 168     | 227           | 2024**| Turkish delight  | 54      | 55            |
-| July      | 2023  | Lake Urmia                   | 142     | 179           | 2024  | \-               | \-      | \-            |
+| July      | 2023  | Lake Urmia                   | 142     | 179           | 2024  | Ash-e_doogh      | 56      | 56            |
 | August    | 2023  | Sa'at Tower                  | 160     | 180           | 2024  | \-               | \-      | \-            |
 | September | 2023  | Constitution House of Tabriz | 172     | 206           | 2024  | \-               | \-      | \-            |
 | October   | 2023  | Shah Goli                    | 273     | 317           | 2024  | \-               | \-      | \-            |
@@ -28,6 +28,7 @@ Security researchers can use this version for exploit development, Nuclei templa
 - The plugins have been extracted based on reports from the wordfence.com.
 - The plugins have not been activated due to the potential for disruption.
 - It only includes plugins that are downloadable through the WordPress website.
+- Vulnerabilities with a score of 7 and above are collected.
 
 ## Install:
 - Download the file and extract it from the compressed format.
