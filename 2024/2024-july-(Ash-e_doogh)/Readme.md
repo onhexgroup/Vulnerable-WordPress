@@ -12,6 +12,6 @@ We released this version under the name 'Turkish delight'. ([For more informatio
 - Number of vulnerabilities: 56
 - Admin user: onhexgroup
 - Admin pass: 3We%riFWR&yY&CBxfD
-- Hash Vulnerable_WordPress_July_2024.7z: 
+- Hash Vulnerable_WordPress_July_2024.7z: 51739E69C3D5EFB98E1950649BD2E3A1139F5456090268A4C8DD24BFA2384651
 
 
