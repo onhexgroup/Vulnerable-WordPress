@@ -12,7 +12,7 @@ Security researchers can use this version for exploit development, Nuclei templa
 | June      | 2023  | Maragheh observatory         | 168     | 227   | 2024**| Turkish delight         | 54      | 55    |
 | July      | 2023  | Lake Urmia                   | 142     | 179   | 2024  | Ash-e_doogh             | 56      | 56    |
 | August    | 2023  | Sa'at Tower                  | 160     | 180   | 2024  |Museum of Ostad Bohtouni | 62      | 61    |
-| September | 2023  | Constitution House of Tabriz | 172     | 206   | 2024  | \-                      | \-      | \-    |
+| September | 2023  | Constitution House of Tabriz | 172     | 206   | 2024  |Stone Tark Mosque        | 53      | 51    |
 | October   | 2023  | Shah Goli                    | 273     | 317   | 2024  | \-                      | \-      | \-    |
 | November  | 2023  | Book of Dede Korkut          | 288     | 350   | 2024  | \-                      | \-      | \-    |
 | December  | 2023  | Shahriar                     | 234     | 284   | 2024  | \-                      | \-      | \-    |
