@@ -1,6 +1,6 @@
 Hello and welcome to the Vulnerable WordPress!
 This version includes vulnerable plugins as of November 2024.
-We released this version under the name 'Zahhak Castle'. ([For more information, you can see this Wiki.](https://en.wikipedia.org/wiki/Sahand)) 
+We released this version under the name 'SAHAND'. ([For more information, you can see this Wiki.](https://en.wikipedia.org/wiki/Sahand)) 
 
 [Details in Persian](https://onhexgroup.ir/vulnerable-wordpress-november-2024/)
 
