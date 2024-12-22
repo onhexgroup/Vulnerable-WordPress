@@ -14,7 +14,7 @@ Security researchers can use this version for exploit development, Nuclei templa
 | August    | 2023  | Sa'at Tower                  | 160     | 180   | 2024  |Museum of Ostad Bohtouni | 62      | 61    |
 | September | 2023  | Constitution House of Tabriz | 172     | 206   | 2024  |Stone Tark Mosque        | 53      | 51    |
 | October   | 2023  | Shah Goli                    | 273     | 317   | 2024  | Zahhak Castl            | 59      | 57    |
-| November  | 2023  | Book of Dede Korkut          | 288     | 350   | 2024  | \-                      | \-      | \-    |
+| November  | 2023  | Book of Dede Korkut          | 288     | 350   | 2024  | Sahand                  | 82      | 82    |
 | December  | 2023  | Shahriar                     | 234     | 284   | 2024  | \-                      | \-      | \-    |
 
 
